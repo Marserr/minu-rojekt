@@ -1,0 +1,89 @@
+.blade {
+  width: 300px;
+  height: auto;
+  border: solid #a10606;
+  padding: 25px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1t3PmOH-PRjg9cC-FhPHAYy4jHn0-NMR0A&usqp=CAU);
+}
+.murder {
+  justify-content: center;
+  display: flex;
+  padding: 50px;
+  background-image: url(https://img.freepik.com/premium-vector/beautiful-galaxy-background-with-nebula-cosmos-stardust-bright-shining-stars-universal_275216-80.jpg);
+  border: solid;
+  border-width: 5px;
+  border-color: #a6236b;
+}
+h1 {
+  color: #9e0d53;
+}
+.unresolved_rage {
+  border: solid;
+  border-color: #7cb0d6;
+  background-color: #5a7182;
+  border-width: 5px;
+}
+
+body {
+  background-color: #474747;
+}
+.sabre {
+  padding-top: 40px;
+}
+.lovely {
+  padding-left: 26px;
+  padding-right: 26px;
+}
+.detox {
+  background-color: #c23232;
+  border: solid #e36464;
+  border-width: 5px;
+  padding-left: 750px;
+  padding-bottom: 40px;
+  padding-right: 900px;
+}
+.HELP {
+  border-bottom: solid #7d94a8;
+}
+h2 {
+  color: white;
+}
+.between {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.between2 {
+  padding-top: 20px;
+}
+.explain {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  border: solid #b83d41;
+  background-color: #8c1616;
+}
+.sletus {
+  justify-content: center;
+  display: flex
+}
+.sobr {
+  justify-content: center;
+  display: flex;
+}
+.ag {
+  width: 30px;
+  height: auto;
+}
+.menuuu {
+  background-color: #edb861;
+  border: solid #e39c2b;
+  border-width: 5px;
+}
+.jfg {
+  width: 30px;
+  height: auto;
+}
+.awe {
+  width: 30px;
+  height: auto;
+}
